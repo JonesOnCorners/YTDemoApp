@@ -7,8 +7,10 @@ Items Covered
 5) Viewing the app in a browser
 6) Sync with github so you can use internal Visual Studio Code to push your code to a repo.
 
+--Chnages to demo git within VSC
 
 
+stage -- >git add 
 
 
 
